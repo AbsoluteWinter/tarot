@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Random Tarot [DEMO]</title>
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">  
+        
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <style>
+            .text_box {
+                font-size: 120%;
+                font-family: 'Courier New', Courier, monospace;
+                padding-left: 10%;
+                padding-right: 10%;
+            }
+            #main_text {
+                font-weight: bold;
+            }
+            #credit {
+                padding-left: 20%;
+                padding-right: 20%;
+                font-size: 60%;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1 class="w3-center"><strong>Random Tarot</strong></h1>
+        <p id="credit" align="center"><i>Tarot card interpretations data from</br>
+            Mark McElroy's <code>"Guide to Tarot Meanings"</code></i></br></p>
+
+        <div class="w3-container text_box">
+            <p id="main_text"></p>
+            <p id="sup_text"></p>
+        </div>
+
+        <div class="w3-center" id="disappear">
+            <button onclick="get_card()">Click to get a card</button>
+        </div>
+        
+        <script src="script.js"></script>
+
+    </body>
+</html>
