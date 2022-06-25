@@ -1,5 +1,5 @@
 <center>
-    <img align="left" src="images/m00.jpg" height="120">
+    <img align="left" src="https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m00.jpg" height="120">
     <h1><strong>Random Tarot</strong></h1>
 </center>
 
