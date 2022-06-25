@@ -50,6 +50,7 @@ function is_reversed() {
     if (num < 80) {
         return "";
     } else {
+        document.getElementById("tcard").classList.add("reverse");
         return " (Reversed)";
     };
 }

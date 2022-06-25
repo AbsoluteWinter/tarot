@@ -12,6 +12,10 @@
     /* max-width: 50%; */
 }
 
+.reverse {
+    transform: rotate(180deg);
+}
+
 #main_text {
     font-weight: bold;
 }
