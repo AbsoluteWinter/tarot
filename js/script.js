@@ -7,7 +7,7 @@ var tarot = jsonData.tarot_interpretations; // Main
 
 
 
-function title_case(str) {
+/* function title_case(str) {
     str = str.toLowerCase().split(" ");
     for (var i = 0; i < str.length; i++) {
         str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1); 
@@ -21,7 +21,7 @@ function sort_by_key(array, key) {
         var x = a[key]; var y = b[key];
         return ((x < y) ? -1 : ((x > y) ? 1 : 0));
     });
-}
+} */
 
 
 function shuffle(array) {
@@ -57,11 +57,24 @@ function is_reversed() {
 
 
 function get_card() {
-    temp = shuffle(tarot)[0]; // Card deck
+    var temp = shuffle(tarot)[0]; // Shuffle deck
 
-    document.getElementById("main_text").innerHTML = "Card: " + title_case(temp.name) + is_reversed();
-    document.getElementById("sup_text").innerHTML = "<strong>Meanings:</strong></br> - " + temp.meanings.light.join("</br> - ") + "</br></br>Reversed:</br> - " + temp.meanings.shadow.join("</br> - ");
-    document.getElementById("tcard").src = temp.img
+    // Card name
+    document.getElementById("main_text").innerHTML = "Card: " + temp.name + is_reversed();
+
+    // Content
+    var content = `
+    <p><strong>Keywords:</strong></br>${temp.keywords.join(", ")}</p>
+    <p><strong>Meanings:</strong></p>
+    <p><u>Normal:</u></br> - ${temp.meanings.light.join("</br> - ")}</p>
+    <p><u>Reversed:</u></br> - ${temp.meanings.shadow.join("</br> - ")}</p>
+    <p><strong>Tellings:</strong></p>
+    <p> - ${temp.fortune_telling.join("</br> - ")}</p>
+    `
+    document.getElementById("sup_text").innerHTML = content;
+    
+    // Image
+    document.getElementById("tcard").src = temp.img;
 
     // Make button disappear
     document.getElementById("disappear").style.display="none"; 
