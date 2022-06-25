@@ -1,6 +1,6 @@
 // Load data
 var request = new XMLHttpRequest();
-request.open("GET", "./tarot-img64.json", false);
+request.open("GET", "./tarot-img_onl.json", false);
 request.send(null);
 var jsonData = JSON.parse(request.responseText);
 var tarot = jsonData.tarot_interpretations; // Main
@@ -47,7 +47,7 @@ function is_reversed() {
     // light: normal
     // shadow: reversed
     var num = Math.floor((Math.random() * 100) + 1);
-    if (num < 20) {
+    if (num < 80) {
         return "";
     } else {
         return " (Reversed)";
@@ -60,7 +60,7 @@ function get_card() {
 
     document.getElementById("main_text").innerHTML = "Card: " + title_case(temp.name) + is_reversed();
     document.getElementById("sup_text").innerHTML = "<strong>Meanings:</strong></br> - " + temp.meanings.light.join("</br> - ") + "</br></br>Reversed:</br> - " + temp.meanings.shadow.join("</br> - ");
-    document.getElementById("tcard").src = temp.img64
+    document.getElementById("tcard").src = temp.img
 
     // Make button disappear
     document.getElementById("disappear").style.display="none"; 

@@ -37,7 +37,7 @@
             "name": "The Fool",
             "rank": 0,
             "suit": "major",
-            "img": "m00.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m00.jpg"
         },
         {
             "fortune_telling": [
@@ -70,7 +70,7 @@
             "name": "The Magician",
             "rank": 1,
             "suit": "major",
-            "img": "m01.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m01.jpg"
         },
         {
             "fortune_telling": [
@@ -106,7 +106,7 @@
             "name": "The High Priestess",
             "rank": 2,
             "suit": "major",
-            "img": "m02.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m02.jpg"
         },
         {
             "fortune_telling": [
@@ -143,7 +143,7 @@
             "name": "The Empress",
             "rank": 3,
             "suit": "major",
-            "img": "m03.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m03.jpg"
         },
         {
             "fortune_telling": [
@@ -177,7 +177,7 @@
             "name": "The Emperor",
             "rank": 4,
             "suit": "major",
-            "img": "m04.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m04.jpg"
         },
         {
             "fortune_telling": [
@@ -213,7 +213,7 @@
             "name": "The Hierophant",
             "rank": 5,
             "suit": "major",
-            "img": "m05.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m05.jpg"
         },
         {
             "fortune_telling": [
@@ -247,7 +247,7 @@
             "name": "The Lovers",
             "rank": 6,
             "suit": "major",
-            "img": "m06.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m06.jpg"
         },
         {
             "fortune_telling": [
@@ -280,7 +280,7 @@
             "name": "The Chariot",
             "rank": 7,
             "suit": "major",
-            "img": "m07.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m07.jpg"
         },
         {
             "fortune_telling": [
@@ -312,7 +312,7 @@
             "name": "Strength",
             "rank": 8,
             "suit": "major",
-            "img": "m08.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m08.jpg"
         },
         {
             "fortune_telling": [
@@ -345,7 +345,7 @@
             "name": "The Hermit",
             "rank": 9,
             "suit": "major",
-            "img": "m09.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m09.jpg"
         },
         {
             "fortune_telling": [
@@ -379,7 +379,7 @@
             "name": "Wheel Of Fortune",
             "rank": 10,
             "suit": "major",
-            "img": "m10.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m10.jpg"
         },
         {
             "fortune_telling": [
@@ -413,7 +413,7 @@
             "name": "Justice",
             "rank": 11,
             "suit": "major",
-            "img": "m11.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m11.jpg"
         },
         {
             "fortune_telling": [
@@ -447,7 +447,7 @@
             "name": "The Hanged Man",
             "rank": 12,
             "suit": "major",
-            "img": "m12.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m12.jpg"
         },
         {
             "fortune_telling": [
@@ -481,7 +481,7 @@
             "name": "Death",
             "rank": 13,
             "suit": "major",
-            "img": "m13.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m13.jpg"
         },
         {
             "fortune_telling": [
@@ -517,7 +517,7 @@
             "name": "Temperance",
             "rank": 14,
             "suit": "major",
-            "img": "m14.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m14.jpg"
         },
         {
             "fortune_telling": [
@@ -552,7 +552,7 @@
             "name": "The Devil",
             "rank": 15,
             "suit": "major",
-            "img": "m15.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m15.jpg"
         },
         {
             "fortune_telling": [
@@ -588,7 +588,7 @@
             "name": "The Tower",
             "rank": 16,
             "suit": "major",
-            "img": "m16.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m16.jpg"
         },
         {
             "fortune_telling": [
@@ -625,7 +625,7 @@
             "name": "The Star",
             "rank": 17,
             "suit": "major",
-            "img": "m17.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m17.jpg"
         },
         {
             "fortune_telling": [
@@ -659,7 +659,7 @@
             "name": "The Moon",
             "rank": 18,
             "suit": "major",
-            "img": "m18.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m18.jpg"
         },
         {
             "fortune_telling": [
@@ -692,7 +692,7 @@
             "name": "The Sun",
             "rank": 19,
             "suit": "major",
-            "img": "m19.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m19.jpg"
         },
         {
             "fortune_telling": [
@@ -727,7 +727,7 @@
             "name": "Judgement",
             "rank": 20,
             "suit": "major",
-            "img": "m20.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m20.jpg"
         },
         {
             "fortune_telling": [
@@ -761,7 +761,7 @@
             "name": "The World",
             "rank": 21,
             "suit": "major",
-            "img": "m21.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/m21.jpg"
         },
         {
             "fortune_telling": [
@@ -798,7 +798,7 @@
             "name": "Ace Of Wands",
             "rank": 1,
             "suit": "wands",
-            "img": "w01.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w01.jpg"
         },
         {
             "fortune_telling": [
@@ -831,7 +831,7 @@
             "name": "Two Of Wands",
             "rank": 2,
             "suit": "wands",
-            "img": "w02.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w02.jpg"
         },
         {
             "fortune_telling": [
@@ -864,7 +864,7 @@
             "name": "Three Of Wands",
             "rank": 3,
             "suit": "wands",
-            "img": "w03.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w03.jpg"
         },
         {
             "fortune_telling": [
@@ -897,7 +897,7 @@
             "name": "Four Of Wands",
             "rank": 4,
             "suit": "wands",
-            "img": "w04.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w04.jpg"
         },
         {
             "fortune_telling": [
@@ -929,7 +929,7 @@
             "name": "Five Of Wands",
             "rank": 5,
             "suit": "wands",
-            "img": "w05.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w05.jpg"
         },
         {
             "fortune_telling": [
@@ -965,7 +965,7 @@
             "name": "Six Of Wands",
             "rank": 6,
             "suit": "wands",
-            "img": "w06.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w06.jpg"
         },
         {
             "fortune_telling": [
@@ -997,7 +997,7 @@
             "name": "Seven Of Wands",
             "rank": 7,
             "suit": "wands",
-            "img": "w07.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w07.jpg"
         },
         {
             "fortune_telling": [
@@ -1032,7 +1032,7 @@
             "name": "Eight Of Wands",
             "rank": 8,
             "suit": "wands",
-            "img": "w08.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w08.jpg"
         },
         {
             "fortune_telling": [
@@ -1069,7 +1069,7 @@
             "name": "Nine Of Wands",
             "rank": 9,
             "suit": "wands",
-            "img": "w09.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w09.jpg"
         },
         {
             "fortune_telling": [
@@ -1101,7 +1101,7 @@
             "name": "Ten Of Wands",
             "rank": 10,
             "suit": "wands",
-            "img": "w10.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w10.jpg"
         },
         {
             "fortune_telling": [
@@ -1133,7 +1133,7 @@
             "name": "Page Of Wands",
             "rank": "page",
             "suit": "wands",
-            "img": "w11.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w11.jpg"
         },
         {
             "fortune_telling": [
@@ -1167,7 +1167,7 @@
             "name": "Knight Of Wands",
             "rank": "knight",
             "suit": "wands",
-            "img": "w12.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w12.jpg"
         },
         {
             "fortune_telling": [
@@ -1197,7 +1197,7 @@
             "name": "Queen Of Wands",
             "rank": "queen",
             "suit": "wands",
-            "img": "w13.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w13.jpg"
         },
         {
             "fortune_telling": [
@@ -1227,7 +1227,7 @@
             "name": "King Of Wands",
             "rank": "king",
             "suit": "wands",
-            "img": "w14.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/w14.jpg"
         },
         {
             "fortune_telling": [
@@ -1262,7 +1262,7 @@
             "name": "Ace Of Cups",
             "rank": 1,
             "suit": "cups",
-            "img": "c01.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c01.jpg"
         },
         {
             "fortune_telling": [
@@ -1298,7 +1298,7 @@
             "name": "Two Of Cups",
             "rank": 2,
             "suit": "cups",
-            "img": "c02.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c02.jpg"
         },
         {
             "fortune_telling": [
@@ -1329,7 +1329,7 @@
             "name": "Three Of Cups",
             "rank": 3,
             "suit": "cups",
-            "img": "c03.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c03.jpg"
         },
         {
             "fortune_telling": [
@@ -1363,7 +1363,7 @@
             "name": "Four Of Cups",
             "rank": 4,
             "suit": "cups",
-            "img": "c04.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c04.jpg"
         },
         {
             "fortune_telling": [
@@ -1401,7 +1401,7 @@
             "name": "Five Of Cups",
             "rank": 5,
             "suit": "cups",
-            "img": "c05.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c05.jpg"
         },
         {
             "fortune_telling": [
@@ -1435,7 +1435,7 @@
             "name": "Six Of Cups",
             "rank": 6,
             "suit": "cups",
-            "img": "c06.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c06.jpg"
         },
         {
             "fortune_telling": [
@@ -1467,7 +1467,7 @@
             "name": "Seven Of Cups",
             "rank": 7,
             "suit": "cups",
-            "img": "c07.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c07.jpg"
         },
         {
             "fortune_telling": [
@@ -1505,7 +1505,7 @@
             "name": "Eight Of Cups",
             "rank": 8,
             "suit": "cups",
-            "img": "c08.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c08.jpg"
         },
         {
             "fortune_telling": [
@@ -1539,7 +1539,7 @@
             "name": "Nine Of Cups",
             "rank": 9,
             "suit": "cups",
-            "img": "c09.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c09.jpg"
         },
         {
             "fortune_telling": [
@@ -1570,7 +1570,7 @@
             "name": "Ten Of Cups",
             "rank": 10,
             "suit": "cups",
-            "img": "c10.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c10.jpg"
         },
         {
             "fortune_telling": [
@@ -1604,7 +1604,7 @@
             "name": "Page Of Cups",
             "rank": "page",
             "suit": "cups",
-            "img": "c11.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c11.jpg"
         },
         {
             "fortune_telling": [
@@ -1636,7 +1636,7 @@
             "name": "Knight Of Cups",
             "rank": "knight",
             "suit": "cups",
-            "img": "c12.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c12.jpg"
         },
         {
             "fortune_telling": [
@@ -1668,7 +1668,7 @@
             "name": "Queen Of Cups",
             "rank": "queen",
             "suit": "cups",
-            "img": "c13.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c13.jpg"
         },
         {
             "fortune_telling": [
@@ -1699,7 +1699,7 @@
             "name": "King Of Cups",
             "rank": "king",
             "suit": "cups",
-            "img": "c14.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/c14.jpg"
         },
         {
             "fortune_telling": [
@@ -1734,7 +1734,7 @@
             "name": "Ace Of Swords",
             "rank": 1,
             "suit": "swords",
-            "img": "s01.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s01.jpg"
         },
         {
             "fortune_telling": [
@@ -1767,7 +1767,7 @@
             "name": "Two Of Swords",
             "rank": 2,
             "suit": "swords",
-            "img": "s02.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s02.jpg"
         },
         {
             "fortune_telling": [
@@ -1800,7 +1800,7 @@
             "name": "Three Of Swords",
             "rank": 3,
             "suit": "swords",
-            "img": "s03.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s03.jpg"
         },
         {
             "fortune_telling": [
@@ -1831,7 +1831,7 @@
             "name": "Four Of Swords",
             "rank": 4,
             "suit": "swords",
-            "img": "s04.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s04.jpg"
         },
         {
             "fortune_telling": [
@@ -1867,7 +1867,7 @@
             "name": "Five Of Swords",
             "rank": 5,
             "suit": "swords",
-            "img": "s05.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s05.jpg"
         },
         {
             "fortune_telling": [
@@ -1901,7 +1901,7 @@
             "name": "Six Of Swords",
             "rank": 6,
             "suit": "swords",
-            "img": "s06.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s06.jpg"
         },
         {
             "fortune_telling": [
@@ -1933,7 +1933,7 @@
             "name": "Seven Of Swords",
             "rank": 7,
             "suit": "swords",
-            "img": "s07.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s07.jpg"
         },
         {
             "fortune_telling": [
@@ -1970,7 +1970,7 @@
             "name": "Eight Of Swords",
             "rank": 8,
             "suit": "swords",
-            "img": "s08.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s08.jpg"
         },
         {
             "fortune_telling": [
@@ -2005,7 +2005,7 @@
             "name": "Nine Of Swords",
             "rank": 9,
             "suit": "swords",
-            "img": "s09.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s09.jpg"
         },
         {
             "fortune_telling": [
@@ -2041,7 +2041,7 @@
             "name": "Ten Of Swords",
             "rank": 10,
             "suit": "swords",
-            "img": "s10.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s10.jpg"
         },
         {
             "fortune_telling": [
@@ -2075,7 +2075,7 @@
             "name": "Page Of Swords",
             "rank": "page",
             "suit": "swords",
-            "img": "s11.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s11.jpg"
         },
         {
             "fortune_telling": [
@@ -2114,7 +2114,7 @@
             "name": "Knight Of Swords",
             "rank": "knight",
             "suit": "swords",
-            "img": "s12.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s12.jpg"
         },
         {
             "fortune_telling": [
@@ -2152,7 +2152,7 @@
             "name": "Queen Of Swords",
             "rank": "queen",
             "suit": "swords",
-            "img": "s13.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s13.jpg"
         },
         {
             "fortune_telling": [
@@ -2186,7 +2186,7 @@
             "name": "King Of Swords",
             "rank": "king",
             "suit": "swords",
-            "img": "s14.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/s14.jpg"
         },
         {
             "fortune_telling": [
@@ -2219,7 +2219,7 @@
             "name": "Ace Of Pentacles",
             "rank": 1,
             "suit": "coins",
-            "img": "p01.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p01.jpg"
         },
         {
             "fortune_telling": [
@@ -2253,7 +2253,7 @@
             "name": "Two Of Pentacles",
             "rank": 2,
             "suit": "coins",
-            "img": "p02.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p02.jpg"
         },
         {
             "fortune_telling": [
@@ -2288,7 +2288,7 @@
             "name": "Three Of Pentacles",
             "rank": 3,
             "suit": "coins",
-            "img": "p03.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p03.jpg"
         },
         {
             "fortune_telling": [
@@ -2322,7 +2322,7 @@
             "name": "Four Of Pentacles",
             "rank": 4,
             "suit": "coins",
-            "img": "p04.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p04.jpg"
         },
         {
             "fortune_telling": [
@@ -2357,7 +2357,7 @@
             "name": "Five Of Pentacles",
             "rank": 5,
             "suit": "coins",
-            "img": "p05.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p05.jpg"
         },
         {
             "fortune_telling": [
@@ -2392,7 +2392,7 @@
             "name": "Six Of Pentacles",
             "rank": 6,
             "suit": "coins",
-            "img": "p06.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p06.jpg"
         },
         {
             "fortune_telling": [
@@ -2426,7 +2426,7 @@
             "name": "Seven Of Pentacles",
             "rank": 7,
             "suit": "coins",
-            "img": "p07.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p07.jpg"
         },
         {
             "fortune_telling": [
@@ -2462,7 +2462,7 @@
             "name": "Eight Of Pentacles",
             "rank": 8,
             "suit": "coins",
-            "img": "p08.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p08.jpg"
         },
         {
             "fortune_telling": [
@@ -2494,7 +2494,7 @@
             "name": "Nine Of Pentacles",
             "rank": 9,
             "suit": "coins",
-            "img": "p09.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p09.jpg"
         },
         {
             "fortune_telling": [
@@ -2527,7 +2527,7 @@
             "name": "Ten Of Pentacles",
             "rank": 10,
             "suit": "coins",
-            "img": "p10.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p10.jpg"
         },
         {
             "fortune_telling": [
@@ -2561,7 +2561,7 @@
             "name": "Page Of Pentacles",
             "rank": "page",
             "suit": "coins",
-            "img": "p11.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p11.jpg"
         },
         {
             "fortune_telling": [
@@ -2598,7 +2598,7 @@
             "name": "Knight Of Pentacles",
             "rank": "knight",
             "suit": "coins",
-            "img": "p12.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p12.jpg"
         },
         {
             "fortune_telling": [
@@ -2631,7 +2631,7 @@
             "name": "Queen Of Pentacles",
             "rank": "queen",
             "suit": "coins",
-            "img": "p13.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p13.jpg"
         },
         {
             "fortune_telling": [
@@ -2665,7 +2665,7 @@
             "name": "King Of Pentacles",
             "rank": "king",
             "suit": "coins",
-            "img": "p14.jpg"
+            "img": "https://raw.githubusercontent.com/AbsoluteWinter/tarot-database/main/images/p14.jpg"
         }
     ]
 }
